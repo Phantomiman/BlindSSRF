@@ -1,9 +1,7 @@
 # BlindSSRF Tool
 ## NO MORE NGROK AND DIFFICULTIES
 
-*Who AM I ? Application Penetration Tester in short
-*Here is my responsive page:
-https://phantomiman.github.io/
+*Who AM I ? Check out my responsive page https://phantomiman.github.io/
 
 
 ## Blind SSRF OOB (Out Of Bound)
