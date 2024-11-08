@@ -7,6 +7,7 @@ https://phantomiman.github.io/
 
 
 ## Blind SSRF OOB (Out Of Bound)
+https://owasp.org/API-Security/editions/2023/en/0xa7-server-side-request-forgery/
 
 After spending considerable time struggling with Ngrok during my penetration tests—facing EDR preventions and being disrupted by confirmation buttons that hindered the execution of Blind SSRF PoCs—I decided to create a solution that would save time and effort for anyone else encountering similar roadblocks.
 
